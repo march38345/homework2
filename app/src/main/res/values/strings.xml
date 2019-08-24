@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="my_todo" translatable="false">My ToDo</string>
+    <string name="LoginTo">"Login To Your Account"</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="log">Login</string>
+    <string name="dont">"Don't have an account? Register"</string>
+</resources>
